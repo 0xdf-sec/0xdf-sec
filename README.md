@@ -1,4 +1,4 @@
-# 🎯 Hey there, digital wanderer! 
+#  Hey there, digital wanderer! 
 
 **I'm Krish** (aka **0xdf-sec**) - your friendly neighborhood ethical hacker who definitely didn't learn everything from Mr. Robot 😅
 
@@ -11,12 +11,12 @@ Passionate cybersecurity enthusiast | Ethical hacker | Digital ninja in training
 
 ## 🎪 What I'm Up To
 
-- 🔍 **Learning:** Information Systems Security 
-- 🚩 **CTF Warrior:** Solving digital puzzles
-- 📝 **Writeups:** [CTF Adventures](https://github.com/0xdf-sec/CTFs)
-- 🤖 **Exploring:** AI meets cybersecurity
+-  **Learning:** Information Systems Security 
+-  **CTF Warrior:** Solving digital puzzles
+-  **Writeups:** [CTF Adventures](https://github.com/0xdf-sec/CTFs)
+-  **Exploring:** AI meets cybersecurity
 
-## ⚡ Skills
+## Skills
 
 ```python
 arsenal = ["Networking", "Linux", "Python/Bash", "Web Security", 
@@ -30,7 +30,7 @@ arsenal = ["Networking", "Linux", "Python/Bash", "Web Security",
 
 ## 🤝 Let's Collaborate!
 
-Always down for cybersecurity projects, CTF challenges, or late-night coding sessions! 🚀
+Always down for cybersecurity projects, CTF challenges, or late-night coding sessions! 
 
 ---
 *P.S. - Recruiters welcome, but I won't hack your ex's social media* 😆
