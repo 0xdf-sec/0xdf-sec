@@ -6,7 +6,7 @@
 
 ```bash
 $ whoami
-Passionate cybersecurity enthusiast | Ethical hacker | Digital ninja in training 🥷
+> Passionate cybersecurity enthusiast | Ethical hacker | Digital ninja in training 🥷
 ```
 
 ## 🎪 What I'm Up To
